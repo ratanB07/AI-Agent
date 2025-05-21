@@ -1,4 +1,5 @@
-# AI-Agent
+#Its me Data Scientist 
+# AI-Agent 
 
 # Reverend.ai AI Agents for Matherson and Sons
 
@@ -98,7 +99,7 @@ This project implements two AI Agents for Matherson and Sons, built by Reverend.
 
 ## Contact
 
-For questions or further collaboration, please contact Reverend.ai at [your-email@example.com].
+For questions or further collaboration, please contact Reverend.ai at [ratanbisong@gmail.com].
 
 ---
 
